@@ -6,9 +6,9 @@
 
 <!-- - 🔭 I’m currently working in **ABC Company** -->
 
-- 🌱 I’m currently learning **Java, .NET, Redux**
+- 🌱 I’m currently learning **Next.js, Java, .NET**
 
-- 💬 Ask me about **React, Node.js, Express.js**
+- 💬 Ask me about **React, Node.js, Laravel**
 
 - 📫 How to reach me lahirudissanayake15@gmail.com
 
@@ -31,8 +31,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="40"/> </a>
-  <img width="12" />
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40"/> </a>
   <img width="12" />
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40"/> </a>
@@ -68,10 +66,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="40"/> </a>
   <img width="12" />
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="40"/> </a>
-  <img width="12" />
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" height="40"/> </a>
-  <img width="12" />
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pr" alt="premierepro" height="40"/> </a>
 </p>
 
 <h3 align="left">Stats:</h3>
