@@ -31,8 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <button onclick="location.href='https://www.w3schools.com/html/'" type="button"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40"/> </button>
-  <button href="https://www.w3schools.com/html/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40"/> </button>
+  <a href="https://www.w3schools.com/html/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40"/> </a>
   <img width="12" />
   <a href="https://www.w3schools.com/css/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40"/> </a>
   <img width="12" />
