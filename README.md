@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lahiru Dissanayake</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lahiru1115&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru1115" /></p>
 
 <!-- - 🔭 I’m currently working in **ABC Company** -->
 
-- 🌱 I’m currently learning **Next.js, Java, .NET**
+- 🌱 I’m currently learning **Java, .NET, AWS**
 
-- 💬 Ask me about **React, Node.js, Laravel**
+- 💬 Ask me about **React, Next.js, Node.js**
 
 - 📫 How to reach me lahirudissanayake15@gmail.com
 
